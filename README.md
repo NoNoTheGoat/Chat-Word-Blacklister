@@ -1,6 +1,6 @@
 # Chat-Word-Blacklister
 ___________________________________________________________________________________________
-This Script Will Blacklist and Kick perople if they say certain words 
+This Script Will Blacklist and Kick perople if they say certain words,
 The Words That Are In The sv_blwords.lua are The Blacklisted Words.
 ___________________________________________________________________________________________
 You Can Change The Blacklisted Words In sv_blwords.lua Line 2, 
