@@ -3,4 +3,7 @@ author "Noah L From Hunter's Development"
 description " This Script Will Kick People That Say The Blacklisted Words. (In sc_blwords.lua) https://discord.gg/ZhNtejyzEy"
 website "https://discord.gg/ZhNtejyzEy"
 
-server_script 'sv_blwords.lua'
+server_scripts{ 
+    'sv_blwords.lua',
+    'version.lua'
+}
